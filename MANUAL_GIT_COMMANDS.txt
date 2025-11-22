@@ -1,0 +1,8 @@
+# Manual Git Commands to Link to GitHub
+
+Replace YOUR_USERNAME with your actual GitHub username
+Replace YOUR_REPOSITORY with your actual GitHub repository name
+
+git remote add origin https://github.com/tequilayu/test-ai.git
+git branch -M main
+git push -u origin main
